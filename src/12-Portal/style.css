@@ -1,0 +1,7 @@
+ div.portal {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background-color: pink;
+  z-index: 999;
+}
