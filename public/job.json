@@ -1,0 +1,230 @@
+{
+  "result":
+  [
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8362888,
+"positionName": "车载应用产品经理-上海长宁-00208",
+"city": "上海",
+"createTime": "今天 15:21",
+"salary": "20k-35k",
+"companyId": 205367,
+"companyLogo": "i/image2/M01/46/D8/CgoB5l0B452AdRhmAAAkOQa8HS4233.png",
+"companyName": "大众问问",
+"companyFullName": "大众问问（北京）信息科技有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8366807,
+"positionName": "互联网保险运营",
+"city": "深圳",
+"createTime": "今天 15:20",
+"salary": "8k-12k",
+"companyId": 21977,
+"companyLogo": "i/image/M00/23/6D/CgqKkVcXW4uAFfw9AAASlzrqxeY848.png",
+"companyName": "富德生命人寿总公司多元行销中心",
+"companyFullName": "富德生命人寿保险股份有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8351085,
+"positionName": "Unity3D动效设计师",
+"city": "深圳",
+"createTime": "今天 15:17",
+"salary": "15k-30k",
+"companyId": 166032,
+"companyLogo": "i/image/M00/8A/E9/CgqKkVh3VFKAIMkQAAAXgD48ZJw442.png",
+"companyName": "天兴诚科技",
+"companyFullName": "深圳市天兴诚科技有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8350041,
+"positionName": "flutter开发工程师",
+"city": "杭州",
+"createTime": "今天 15:15",
+"salary": "10k-20k",
+"companyId": 117868860,
+"companyLogo": "i/image3/M01/01/C6/Ciqah155zuqALFd2AABUgz0I7Mk279.png",
+"companyName": "富通天下",
+"companyFullName": "宁波中茂网络科技有限公司杭州分公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8366024,
+"positionName": "商务经理",
+"city": "北京",
+"createTime": "今天 15:14",
+"salary": "8k-10k",
+"companyId": 25385,
+"companyLogo": "image1/M00/00/34/Cgo8PFTUXJSATfsbAABBJcBS1d0611.jpg",
+"companyName": "北京泽佳",
+"companyFullName": "北京泽佳科益科技有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8348501,
+"positionName": "客服专员",
+"city": "杭州",
+"createTime": "今天 15:11",
+"salary": "4k-6k",
+"companyId": 598822,
+"companyLogo": "i/image6/M00/3E/51/CioPOWCY2syASljlAAAVCBh7WQQ004.png",
+"companyName": "风火递",
+"companyFullName": "杭州蓝川科技有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8363430,
+"positionName": "高级项目经理",
+"city": "上海",
+"createTime": "今天 15:11",
+"salary": "11k-13k",
+"companyId": 596873,
+"companyLogo": "images/logo_default.png",
+"companyName": "蓝梦广告",
+"companyFullName": "上海蓝梦广告传播股份有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8364239,
+"positionName": "解决方案专家",
+"city": "上海",
+"createTime": "今天 15:09",
+"salary": "20k-40k",
+"companyId": 30118,
+"companyLogo": "i/image2/M01/E6/A0/CgoB5lx0kpqAY_2SAACmQxoJlnk853.jpg",
+"companyName": "影谱科技",
+"companyFullName": "北京影谱科技股份有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8349952,
+"positionName": "java开发工程师",
+"city": "深圳",
+"createTime": "今天 15:09",
+"salary": "9k-13k",
+"companyId": 86102449,
+"companyLogo": "i/image/M00/40/29/Ciqc1F8yNiWATVNAAAIhbcWQb8c109.png",
+"companyName": "德科信息",
+"companyFullName": "深圳市德科信息技术有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8366154,
+"positionName": "外贸专员/助理",
+"city": "天津",
+"createTime": "今天 15:08",
+"salary": "4k-7k",
+"companyId": 55656,
+"companyLogo": "i/image/M00/37/0D/CgqKkVdfeBiAE0DiAAAylkrI8Sk556.jpg",
+"companyName": "云脉三六五",
+"companyFullName": "天津云脉三六五科技有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8366821,
+"positionName": "Shopify独立站运营经理",
+"city": "天津",
+"createTime": "今天 15:08",
+"salary": "8k-13k",
+"companyId": 55656,
+"companyLogo": "i/image/M00/37/0D/CgqKkVdfeBiAE0DiAAAylkrI8Sk556.jpg",
+"companyName": "云脉三六五",
+"companyFullName": "天津云脉三六五科技有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8363734,
+"positionName": "产品运营专员",
+"city": "北京",
+"createTime": "今天 15:07",
+"salary": "20k-25k",
+"companyId": 10369,
+"companyLogo": "image1/M00/00/15/CgYXBlTUWECAXAksAABGkmdtwig327.jpg",
+"companyName": "完美世界",
+"companyFullName": "完美世界（北京）软件科技发展有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8364831,
+"positionName": "数据平台开发工程师",
+"city": "成都",
+"createTime": "今天 15:07",
+"salary": "20k-40k",
+"companyId": 32720,
+"companyLogo": "i/image/M00/A5/6B/Cgp3O1ir8wOAJzPbAAIHeppEuoE288.png",
+"companyName": "招银网络科技",
+"companyFullName": "招银网络科技（深圳）有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8367455,
+"positionName": "研究院运营岗",
+"city": "上海",
+"createTime": "今天 15:04",
+"salary": "12k-24k",
+"companyId": 329,
+"companyLogo": "i/image3/M01/6A/43/Cgq2xl5UxfqAF56ZAABL2r1NdMU394.png",
+"companyName": "网易",
+"companyFullName": "网易（杭州）网络有限公司"
+},
+{
+"logger": {
+"traceCapable": true,
+"name": "com.lagou.entity.mobile.MobilePosition"
+},
+"positionId": 8366479,
+"positionName": "销售实习生/销售管培生",
+"city": "上海",
+"createTime": "今天 15:01",
+"salary": "6k-10k",
+"companyId": 122132109,
+"companyLogo": "i/image/M00/67/E9/CgqCHl-icbuAcz9XAAANVynHZJM090.png",
+"companyName": "可可豆科技",
+"companyFullName": "深圳市可可豆科技有限公司"
+}
+]
+}
