@@ -9,7 +9,9 @@ import ReactDOM from "react-dom"
 // import store from "./13-redux/02-redux/redux+react/store"
 
 //下面是todolist
-import App from "./13-redux/03-todilist/App"
+import App from "./13-redux/03-todilist/TodoList"
+import {Provider} from "react-redux"
+
 
 
 
@@ -20,5 +22,11 @@ import App from "./13-redux/03-todilist/App"
 
 // render()
 // store.subscribe(render)
+import store from "./13-redux/03-todilist/store/index"     //store里面有一个subscribe（）， 是更新用的。
 
-ReactDOM.render(<App msg="world" />,document.getElementById("root"))
+ReactDOM.render(
+  <Provider store={store}>
+    <App />
+  </Provider>,
+document.getElementById("root")
+)
