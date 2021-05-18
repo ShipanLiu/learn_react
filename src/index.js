@@ -9,8 +9,11 @@ import ReactDOM from "react-dom"
 // import store from "./13-redux/02-redux/redux+react/store"
 
 //下面是todolist
-import App from "./13-redux/03-todilist/TodoList"
-import {Provider} from "react-redux"
+// import App from "./13-redux/03-todilist/TodoList"
+// import {Provider} from "react-redux"
+
+//下面是 Router
+import App from "./14-router/CustomLink04"
 
 
 
@@ -22,11 +25,17 @@ import {Provider} from "react-redux"
 
 // render()
 // store.subscribe(render)
-import store from "./13-redux/03-todilist/store/index"     //store里面有一个subscribe（）， 是更新用的。
+// import store from "./13-redux/03-todilist/store/index"     //store里面有一个subscribe（）， 是更新用的。
 
+// ReactDOM.render(
+//   <Provider store={store}>
+//     <App />
+//   </Provider>,
+// document.getElementById("root")
+// )
+
+import { BrowserRouter } from "react-router-dom"
 ReactDOM.render(
-  <Provider store={store}>
-    <App />
-  </Provider>,
+    <BrowserRouter><App /></BrowserRouter>,
 document.getElementById("root")
 )
