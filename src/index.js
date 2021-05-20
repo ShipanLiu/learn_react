@@ -13,7 +13,9 @@ import ReactDOM from "react-dom"
 // import {Provider} from "react-redux"
 
 //下面是 Router
-import App from "./14-router/CustomLink04"
+// import App from "./14-router/05-Redirect/AuthDemo"
+// import App from "./14-router/07-Page404/Page404"
+import App from "./14-router/10-RecursivePath/RecursivePath"
 
 
 
