@@ -9,6 +9,8 @@
     PureComponent 是在类组件里
     React.memo  是在fun 组件里面
 
+    等价于:  useMemo(() => fn, [])
+
 */
 
 
@@ -82,7 +84,7 @@ export default function UseCalback() {
   })
 
 
-  // const handleClick = () => {
+  // function handleClick() {
   //   console.log('added');
   // }
 
@@ -99,6 +101,9 @@ export default function UseCalback() {
       {data.count}
       {/* 把onadd 添加到 Child的属性上 */}
       <Child onAdd={handleClick}/>
+      <button onClick={handleClick}>handleClick</button>
+      {/* data 被改变的时候，主组件一定会run， 假如不使用callback的话， handleClick就会重新生成，
+       而  handleClick 又被当作了参数传进了 Child， 所以Child就会被刷新。 但是使用callBack 把handleClick函数干一下， 就好很多*/}
       <button onClick={() => setData(data => ({count: 100}))}>变成100</button>
     </div>
   )

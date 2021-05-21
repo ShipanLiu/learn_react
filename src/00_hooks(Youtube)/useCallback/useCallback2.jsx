@@ -104,9 +104,14 @@ const App1 = (props) => {
   const [a, setA] = React.useState(0)
   const [b, setB] = React.useState(0)
 
-  const memoHandClick = useCallback(() => {
-    console.log("click");
-  }, [])
+  // const memoHandClick = useCallback(() => {
+  //   console.log("click");
+  // }, [])
+
+   // 这个时候，  点击change b 按钮也会导致parent 重新挂载， 因为看 119 zeile
+  function memoHandClick() {
+    console.log('click');
+  }
   return (
     <div>
       {console.log("App 渲染")}
