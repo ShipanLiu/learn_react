@@ -1,0 +1,14 @@
+
+li,
+a {
+  text-decoration: none;
+}
+.seleted {
+  font-size: 30px;
+  background-color: greenyellow;
+  text-decoration: none;
+}
+
+.seleted::before {
+  content: '>'
+}
